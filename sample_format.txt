@@ -1,0 +1,8 @@
+printf	color:00ffff
+int		italic, color:00ffff
+char	italic, color:00ffff
+main	color:99ff33
+"(!"*)"	color:cccc00
+%d		color:9933ff
+if		bold, color:ff0066
+else	bold, color:ff0066
